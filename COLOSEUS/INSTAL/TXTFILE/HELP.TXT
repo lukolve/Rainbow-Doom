@@ -1,0 +1,11 @@
+COLOSEUS
+
+  Inçtal cia hry COLOSEUS na v ç HDD po stisku –ubovo–nej kl vesy,
+t to hra je shareware.
+Vytvor¡ sa adres r COLOSEUS na aktualnom disku C:\, do ktor‚ho 
+sa prekop¡ruje programov  skupina coloseus.
+Samotn  inçtal cia je prekontrolovan  programom dvakr t...
+
+StlaŸ kl ves pre pokraŸovanie ...
+
+(Press any key to continue ...)

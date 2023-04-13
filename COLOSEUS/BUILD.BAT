@@ -1,0 +1,10 @@
+@echo off
+REM COLOSEUS
+
+CD C:\COLOSEUS\PASFILE
+
+echo Building library object file...
+C:\COLOSEUS\DEV\BIN\TPC.EXE C:\COLOSEUS\PASFILE\COLOSxRD.pas
+COPY C:\COLOSEUS\PASFILE\COLOSxRD.exe C:\COLOSEUS\LEVEL\COLOSxRD.exe
+CD C:\COLOSEUS\
+echo Build run finished.

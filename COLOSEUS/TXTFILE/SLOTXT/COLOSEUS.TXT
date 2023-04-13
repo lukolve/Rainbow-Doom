@@ -1,0 +1,31 @@
+[IDENT=NOTEPAD][KOD=LATIN2]
+
+                                   ÚÄÄÄÄÄÄÄÄÄÄ¿
+                                   ³ COLOSEUS ³                     verzia 1.00
+                                   ÀÄÄÄÄÄÄÄÄÄÄÙ
+                                   3D akŸn  hra
+                             
+
+vçetky kl vesy ..........
+
+
+KL VESY          FUNKCIA
+          
+  e              Zapnutie dynamickej mapy
+  r              Vypnutie dynamickej mapy
+  m              Zapnute statickej mapy
+                 (akìko–vek inì kl ves statick£ mapu vypne)
+  z              Zapnute zameriavaŸa
+  y              Vypnute zameriavaŸa
+  a              stre–ba
+  q              koniec
+  Esc            menu
+
+****************************************************************************
+  
+  
+Pri probl‚moch pou§ijte Ctrl+Alt+Del... 
+
+Program vy§aduje akìko–vek poŸ¡taŸ IBM PC/AT (odpor£Ÿa 
+sa Pentium s 233MHz), alebo vyçç¡ plne kompatibilnì 
+a operaŸnì syst‚m DOS verzia minim lne 2.00.
